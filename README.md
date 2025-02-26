@@ -1,4 +1,6 @@
 # Node.js Learning Path
+![nodejsimg](https://github.com/user-attachments/assets/b955a82f-274c-490f-9d00-79d119a844ea)
+
 
 Welcome to this comprehensive Node.js learning path. This repository serves as a guide to help you master Node.js backend development from beginner to intermediate levels, with practical projects demonstrating core concepts.
 
